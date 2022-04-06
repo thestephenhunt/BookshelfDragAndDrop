@@ -1,0 +1,12 @@
+.bookshelf {
+    list-style-type: none;
+    border: 1px solid #795b47;
+    padding: 0;
+    writing-mode: sideways-lr;
+    border-width: 0 2rem 2rem;
+    width: calc(100% - 4rem);
+}
+
+h3 {
+    color: white;
+}
